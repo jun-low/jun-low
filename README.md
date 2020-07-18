@@ -8,7 +8,7 @@
     <br>
     An aspiring web developer interested in working on frontend, design system, SEO and currently exploring in digital marketing  ☁️
     loves being multidisciplinary, problem-solving, and challenging to herself.
-    Read <a href="https://www.lewagon.com/blog/jun-music-code">her story</a> feature on Le Wagon Blog on how I persue my passions from music to coding 🎶
+    Read <a href="https://www.lewagon.com/blog/jun-music-code">her story</a> feature on Le Wagon Blog on how she persues her passions from music to coding 🎶
   </samp>
 </p>
 
