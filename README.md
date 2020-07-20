@@ -6,9 +6,9 @@
   <samp>
     We've never tried to push README very far. 
     <br>
-    An aspiring web developer interested in working on frontend, design system, SEO and currently exploring in digital marketing  ☁️
-    loves being multidisciplinary, problem-solving, and challenging to herself.
-    Read <a href="https://www.lewagon.com/blog/jun-music-code">her story</a> on Le Wagon Blog about how she persues her passions from music to coding 🎶
+    An agile frontend developer with Rails experience interested in working on web apps, design system, SEO and currently exploring in the digital marketing world ☁️
+    love being multidisciplinary, problem-solving, and enjoy being challenged.
+    Read <a href="https://www.lewagon.com/blog/jun-music-code">my story</a> on Le Wagon Blog about how I persue my passions from music to coding 🎶
   </samp>
 </p>
 
