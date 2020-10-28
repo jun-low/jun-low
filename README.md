@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="70%" src="https://i.postimg.cc/NM06Bk9c/Yellow-Cross-Lines-Monster-github-Banner-1.png">
+  <img width="50%" src="https://i.postimg.cc/NM06Bk9c/Yellow-Cross-Lines-Monster-github-Banner-1.png">
   <br>
   <br>
   <samp>
