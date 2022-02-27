@@ -1,8 +1,5 @@
 
 <p align="center">
-  <img width="50%" src="https://i.postimg.cc/NM06Bk9c/Yellow-Cross-Lines-Monster-github-Banner-1.png">
-  <br>
-  <br>
   <samp>
     We've never tried to push README very far. 
     <br>
