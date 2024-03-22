@@ -3,7 +3,7 @@
   <samp>
     We've never tried to push README very far. 
     <br>
-    A design-minded front-end developer focused on building beautiful interfaces & experiences.
+    A design-minded software developer focused on building beautiful interfaces & experiences.
     Loves being multidisciplinary, problem-solving, and learning new things.
     Read <a href="https://www.lewagon.com/blog/jun-music-code">my story</a> features on Le Wagon Blog 🎶
   </samp>
